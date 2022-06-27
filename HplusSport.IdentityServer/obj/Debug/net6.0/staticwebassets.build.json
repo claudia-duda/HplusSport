@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OHHDKcMzD7AfNZ5B9jVruLH/7yI5C3fB/RKnEAtVnX0=",
+  "Source": "HplusSport.IdentityServer",
+  "BasePath": "_content/HplusSport.IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
